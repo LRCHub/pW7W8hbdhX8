@@ -1,0 +1,69 @@
+# One Direction – No Control
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(Oh oh oh)
+Stained coffee cup
+Just a fingerprint of
+lipstick’s not enough
+Sweet where you lay,
+Still a trace of innocence on
+my pillowcase
+Waking up
+Beside you I’m a loaded gun
+I can't contain this anymore
+I'm all yours, I got no control
+No control
+Powerless
+And I don't care it's obvious
+I just can't get enough of you
+The pedals down, my eyes are
+closed
+No control
+(Oh oh oh)
+Taste on my tongue
+I don't wanna wash away
+the night before
+In the heat where you lay
+I could stay right here and
+burn in it all day
+Waking up
+Beside you I’m a loaded gun
+I can't contain this anymore
+I'm all yours, I got no control
+No control
+Powerless
+And I don't care it's obvious
+I just can't get enough of you
+The pedals down, my eyes are
+closed
+No control
+Lost my senses
+I'm defenseless
+Her perfumes holding me ransom
+Sweet and sour
+Heart devour
+Lying here I count the hours
+Waking up
+Beside you I’m a loaded gun
+I can't contain this anymore
+I'm all yours, I got no control
+No control
+Powerless
+And I don't care it's obvious
+I just can't get enough of you
+The pedals down, my eyes are
+closed
+No control
+(Oh oh oh)
+No control
+(Oh oh oh)
+No control
+Powerless
+And I don't care it's obvious
+I just can't get enough of you
+The pedals down, my eyes are
+closed
+No control
+```
