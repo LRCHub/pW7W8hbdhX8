@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "No Control",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-21T15:48:36.948121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/01_No_Control_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_No_Control_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Diamond Youth",
+      "has_synced": false,
+      "path": "select/03_No_Control_Diamond_Youth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/04_No_Control_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/05_No_Control_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "WILLOW",
+      "has_synced": true,
+      "path": "select/06_No_Control_WILLOW.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/07_No_Control_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/08_No_Control_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "The Offspring",
+      "has_synced": false,
+      "path": "select/09_No_Control_The_Offspring.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Wicca Phase Springs Eternal",
+      "has_synced": false,
+      "path": "select/10_No_Control_Wicca_Phase_Springs_Eternal.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Trementina",
+      "has_synced": false,
+      "path": "select/11_No_Control_Trementina.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Control - 2021 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_No_Control_-_2021_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "311",
+      "has_synced": true,
+      "path": "select/13_No_Control_311.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/14_No_Control_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Control",
+      "artist": "Brand New",
+      "has_synced": false,
+      "path": "select/15_No_Control_Brand_New.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Control",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_No_Control_One_Direction.txt"
+    }
+  ]
+}
